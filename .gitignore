@@ -1,6 +1,6 @@
 
-# ignore all files ending with ~
-*~ 
+# ignore all temp files (ending with ~)
+*~
 
 # Directories #
 /build/
